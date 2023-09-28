@@ -2,7 +2,7 @@
 
 Course project for WGU Bachelor of Science - Computer Science, c867 Scripting and Programming Applications 
 
-C++ Program which imports the following database of students as a key-value style database, stored as program objects, where Student ID is the key and other details are values.
+C++ Program which imports the following table of students as a key-value style database, stored as program objects, where Student ID is the key and other details are values.
 
 | Student ID | First Name      | Last Name      | Email                    | Age      | Days in Course                       | Degree Program |
 |------------|-----------------|----------------|--------------------------|----------|--------------------------------------|----------------|
