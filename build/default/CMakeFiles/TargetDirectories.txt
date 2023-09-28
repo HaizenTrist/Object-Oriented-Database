@@ -1,3 +1,0 @@
-/home/haizen/documents/wgu/wgu-scripting_and_programming_applications/jym1/build/default/CMakeFiles/jym1.dir
-/home/haizen/documents/wgu/wgu-scripting_and_programming_applications/jym1/build/default/CMakeFiles/edit_cache.dir
-/home/haizen/documents/wgu/wgu-scripting_and_programming_applications/jym1/build/default/CMakeFiles/rebuild_cache.dir
