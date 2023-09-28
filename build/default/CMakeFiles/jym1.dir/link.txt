@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/jym1.dir/main.cpp.o CMakeFiles/jym1.dir/student.cpp.o CMakeFiles/jym1.dir/roster.cpp.o -o jym1 
