@@ -10,7 +10,7 @@ C++ Program which imports the following database of students as a key-value styl
 | A2         | Suzan           | Erickson       | Erickson_1990@gmailcom   | 19       | 50, 30, 40                           | NETWORK        |
 | A3         | Jack            | Napoli         | The_lawyer99yahoo.com    | 19       | 20, 40, 33                           | SOFTWARE       |
 | A4         | Erin            | Black          | Erin.black@comcast.net   | 22       | 50, 58, 40                           | SECURITY       |
-| A5         | Your first name | Your last name | Your valid email address | Your age | Number of days to complete 3 courses | SOFTWARE       |
+| A5         | Aqib            | Hossain        | aqibh@tuta.io            | 18       | 34, 23, 21                           | SOFTWARE       |
 
 Has additional functions to perform the following tasks:
 - Add an entry
@@ -20,3 +20,4 @@ Has additional functions to perform the following tasks:
 - Display information of a single or all students
 - Display all students enrolled in a selected Degree Program
 - Display all students with invalid e-mail addresses
+- Display the total average days spent in a course for each student
