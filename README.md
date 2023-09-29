@@ -1,8 +1,10 @@
-# Object Oriented Roster Database
+# Transferring a List of Students into a Database
 
-Course project for WGU Bachelor of Science - Computer Science, c867 Scripting and Programming Applications 
+Converted a text-based list of students into a database using C++, allowing for easy searching, insertion, and deletion of student data by desired criteria.
 
-C++ Program which imports the following table of students as a key-value style database, stored as program objects, where Student ID is the key and other details are values.
+Automatically copied and sorted data from the old list without need for manual entry and mitigated possibility of errors by adding functions to report entries with invalid data.
+
+Below is the example student information used:
 
 | Student ID | First Name      | Last Name      | Email                    | Age      | Days in Course                       | Degree Program |
 |------------|-----------------|----------------|--------------------------|----------|--------------------------------------|----------------|
@@ -11,6 +13,8 @@ C++ Program which imports the following table of students as a key-value style d
 | A3         | Jack            | Napoli         | The_lawyer99yahoo.com    | 19       | 20, 40, 33                           | SOFTWARE       |
 | A4         | Erin            | Black          | Erin.black@comcast.net   | 22       | 50, 58, 40                           | SECURITY       |
 | A5         | Aqib            | Hossain        | aqibh@tuta.io            | 18       | 34, 23, 21                           | SOFTWARE       |
+
+Course project for WGU Bachelor of Science - Computer Science, c867 Scripting and Programming Applications 
 
 Has additional functions to perform the following tasks:
 - Add an entry
